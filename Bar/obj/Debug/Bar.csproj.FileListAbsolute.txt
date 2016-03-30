@@ -1,0 +1,11 @@
+c:\users\николай\documents\visual studio 2015\Projects\Bar\Bar\bin\Debug\Bar.exe.config
+C:\Users\Николай\documents\visual studio 2015\Projects\Bar\Bar\bin\Debug\Bar.exe
+C:\Users\Николай\documents\visual studio 2015\Projects\Bar\Bar\bin\Debug\Bar.pdb
+C:\Users\Николай\documents\visual studio 2015\Projects\Bar\Bar\obj\Debug\Bar.csprojResolveAssemblyReference.cache
+C:\Users\Николай\documents\visual studio 2015\Projects\Bar\Bar\obj\Debug\Bar.Form1.resources
+C:\Users\Николай\documents\visual studio 2015\Projects\Bar\Bar\obj\Debug\Bar.Form2.resources
+C:\Users\Николай\documents\visual studio 2015\Projects\Bar\Bar\obj\Debug\Bar.Form3.resources
+C:\Users\Николай\documents\visual studio 2015\Projects\Bar\Bar\obj\Debug\Bar.Properties.Resources.resources
+C:\Users\Николай\documents\visual studio 2015\Projects\Bar\Bar\obj\Debug\Bar.csproj.GenerateResource.Cache
+C:\Users\Николай\documents\visual studio 2015\Projects\Bar\Bar\obj\Debug\Bar.exe
+C:\Users\Николай\documents\visual studio 2015\Projects\Bar\Bar\obj\Debug\Bar.pdb
